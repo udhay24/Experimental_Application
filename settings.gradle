@@ -1,2 +1,2 @@
-include ':app', ':demolibrary'
+include ':demolibrary'
 rootProject.name='Experimental Application'

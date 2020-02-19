@@ -1,4 +1,4 @@
-package tech.posit.android.data.repository.model
+package com.udhay.demolibrary.model
 
 internal data class Video(
     val video_id: String,

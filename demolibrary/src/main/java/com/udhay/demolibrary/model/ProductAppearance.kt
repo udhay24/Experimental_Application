@@ -1,4 +1,4 @@
-package tech.posit.android.data.repository.model
+package com.udhay.demolibrary.model
 
 internal data class ProductAppearance(
     val product_id: String,
